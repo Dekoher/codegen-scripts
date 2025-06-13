@@ -12,5 +12,4 @@ start /wait cmd /c install-playwright.bat
 start /wait cmd /c ejecutar-codegen.bat
 
 echo Todos los scripts se ejecutaron correctamente.
-pause
 endlocal
